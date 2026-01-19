@@ -1,4 +1,4 @@
-[Home](/) | [Boog](https://skanpl.github.io/dangerousboogi/dangerboog)
+[Home](/) | [Boog](https://skanpl.github.io/Boog/bla)
 # Booguses
 
 extra boogi
