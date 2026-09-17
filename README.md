@@ -1,7 +1,9 @@
 [Home](/) | [GitHub](https://github.com/skanpl) | [Other](https://skanpl.github.io/Other/bla)
 
 
-I am a **computer science** student within the M2 LMFI master degree at Université Paris Cité which is focused on mathematical logic and theoretical computer science. 
+I am a **computer science** student within the M2 [LMFI](https://master.math.u-paris.fr/en/annee/m2-lmfi/) master degree at [Université Paris Cité](https://u-paris.fr/) which is focused on mathematical logic and theoretical computer science. 
+
+While at [LMFI](https://master.math.u-paris.fr/en/annee/m2-lmfi/), I also took several PL courses at the neighboring [MPRI](https://mpri-master.ens.fr/doku.php?id=start&dataflt[themes_wikis*~]=tagSEMANTIC#sort_target) master at my university. 
 
 
 I am interested in PL, specifically in the following topics:\
