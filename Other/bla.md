@@ -19,7 +19,7 @@ Now, here are some useful bindings to keep in mind.
 `C-x +`: zoom in\
 `C-x -`: zoom out\
 `C-g`: cancel
-- mode management:\ 
+- mode management: \ 
 `M-x shell`: open the shell within emacs\
 `M-x package-list-packages`: list all available packages\
 `M-x package-install`: install a package\
@@ -27,4 +27,14 @@ Now, here are some useful bindings to keep in mind.
 `M-x eval-expression`: runs an elisp expression\
 `M-x tetris`: play a meh version of tetris
 
+- some specific stuff:
+You can write math unicode with `M-x set-input-method RET tex`, e.g. typing `\forall` would then render as `∀`. To revert back the input method, just press `C-\`.\
+When using proofgeneral for Rocq development, proofgeneral might not align itself with the current Rocq version you use (it might be because you have multiple opam switches) and to solve the issue you can do `M-x tuareg-opam-update-env` this will align proofgeneral's Rocq version with the one of your current opam switch.\
+You can of course automate things in a way that the commands you like will be run each time you start emacs by putting the desired command in your `.emacs` file which should be located on the root of your linux file system.
+
+
+## Emacs vs Vim
+The great text editor war!\
+Which one is the best ?!?!\
+Idk and i'm not into this debate, just try them both and pick the one you like the most.
 
