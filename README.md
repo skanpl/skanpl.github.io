@@ -1,4 +1,4 @@
-[Home](/) | [Other](https://skanpl.github.io/Other/bla)
+[Home](/) | [GitHub](https://github.com/skanpl) | [Other](https://skanpl.github.io/Other/bla)
 
 
 I am a **computer science** student within the M2 LMFI master degree at Université Paris Cité which is focused on mathematical logic and theoretical computer science. 
