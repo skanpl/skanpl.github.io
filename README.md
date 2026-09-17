@@ -1,24 +1,24 @@
-[Home](/) | [Boog](https://skanpl.github.io/Boog/bla)
+[Home](/) | [Other](https://skanpl.github.io/Other/bla)
 
 
 I am a **computer science** student within the M2 LMFI master degree at Université Paris Cité which is focused on mathematical logic and theoretical computer science. 
 
 
 I am interested in PL, specifically in the following topics:\
-programming language semantics, type systems, concurrency, formal verification, separation logic, compilers.
+programming language semantics, type systems, formal verification, separation logic, concurrency, process calculi, compilers.
 
 
 # Research internships
 - **Compositional reasoning for contextual preorders**.\
-  **Topic:** Rocq mechanization of the properties of the must-preorder in a process algebra.\
+  **Topic:** Rocq mechanization of properties of the must-preorder in a process algebra.\
   **Supervisor:** Hugo Férée and Giovanni Bernardi\
-  **date:** summer 2026\
-  **Report:** bla
+  **date and place:** summer 2026, IRIF\
+  **Report:** [PDF](https://skanpl.github.io/reports/rapport_must.pdf)
 
 - **Formalization of binders with scope extrusion in Rocq**.\
   **Topic:** A Rocq solution to the [concurrent benchmark](https://concurrentbenchmark.github.io/) scope extrusion challenge using Autosubst.\
   **Supervisor:** Sergueï Lenglet\
-  **date:** summer 2025\
+  **date and place:** summer 2025, LIPN\
   **Paper:** [PDF](https://hal.science/hal-05604016v1/document)
   
   
