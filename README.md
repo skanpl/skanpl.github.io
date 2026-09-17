@@ -1,14 +1,26 @@
 [Home](/) | [Boog](https://skanpl.github.io/Boog/bla)
-# Booguses
 
-extra boogi
+I am a **computer science** student within the M2 LMFI master degree at Université Paris Cité which is focused on mathematical logic and theoretical computer science. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mi mauris, pretium at tortor id, porta sagittis dolor. Vivamus elementum sapien odio, quis dignissim arcu feugiat a. Curabitur congue finibus ante sit amet auctor. Sed tincidunt porta dui, non semper nibh varius at. Ut euismod laoreet sem. Maecenas risus sapien, eleifend sit amet dictum ac, rhoncus vehicula magna. Nam volutpat dictum dolor, eget porta nunc accumsan ac. Nulla ut gravida ipsum. Donec vehicula dictum maximus.
+I am interested in PL, specifically in the following topics:
+programming language semantics, type systems, concurrency, formal verification, separation logic, compilers.
 
-Nulla molestie, felis nec scelerisque dignissim, ex odio malesuada sem, et volutpat dolor erat nec arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vitae porta lectus. Nunc ac ullamcorper odio. In hac habitasse platea dictumst. Nam finibus mauris ornare orci faucibus, vel tempor diam vestibulum. Sed quis odio fringilla, malesuada lacus varius, finibus nisi. In finibus sodales blandit. Cras efficitur tellus purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris eget diam eu felis porta maximus a in est. Maecenas at fermentum sem. Suspendisse nec ex nibh. Vivamus elementum in nisl vel ultricies.
 
-Proin leo turpis, euismod id auctor sed, maximus aliquam mauris. Ut tortor elit, lacinia et eros sit amet, interdum ullamcorper leo. Nunc eget sagittis lectus. Nam aliquam, ante sed tristique aliquam, nisi lorem semper nisl, ac bibendum lorem mauris et lorem. Donec eu ligula ut elit pretium pellentesque. Donec eget luctus lorem. Fusce sit amet neque ac orci tempus dignissim id sed neque. Suspendisse sed tortor vel nulla dignissim tincidunt varius dapibus nulla. Donec accumsan velit eu elementum pellentesque. Fusce placerat aliquam purus, id pulvinar odio aliquet ut. Donec consequat finibus erat ut aliquam. Vestibulum hendrerit lobortis quam, et hendrerit diam lobortis ac. Morbi rutrum purus fermentum dolor porttitor, viverra laoreet ante imperdiet.
+# Research internships
+- **Compositional reasoning for contextual preorders**.
+  **Topic:** Rocq mechanization of the properties of the must-preorder in a process algebra.
+  **Supervisor:** Hugo Férée and Giovanni Bernardi
+  **date:** summer 2026
+  **Report:** bla
 
-Integer congue, nisl sed accumsan commodo, mauris turpis lobortis mi, in consectetur elit mi vitae libero. Curabitur id ex at arcu egestas aliquet. Cras imperdiet scelerisque fringilla. Sed mattis libero eget nisi bibendum, et scelerisque felis venenatis. Suspendisse sit amet nisl sed massa placerat dignissim a vel risus. Quisque pulvinar convallis odio, nec pulvinar quam consectetur eu. Vestibulum pellentesque mauris finibus risus imperdiet varius. Donec aliquet nibh non justo bibendum, et scelerisque ante vestibulum. Morbi tristique blandit risus vitae rutrum. Proin vestibulum egestas magna ut maximus. Donec molestie interdum lectus, a rutrum enim dapibus vitae.
-
-Sed et porta lectus, non ultrices nulla. Integer ac dapibus risus. Maecenas diam massa, malesuada et maximus et, convallis sed nisi. Pellentesque in purus velit. Phasellus vel varius lorem. Quisque vitae orci a odio ornare placerat quis eget justo. Integer maximus purus elit, non faucibus velit facilisis sed. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi consectetur blandit vehicula. 
+- **Formalization of binders with scope extrusion in Rocq**.
+  **Topic:** A Rocq solution to the [concurrent benchmark](https://concurrentbenchmark.github.io/) scope extrusion challenge using Autosubst.
+  **Supervisor:** Sergueï Lenglet
+  **date:** summer 2025
+  **Paper:** [PDF](https://hal.science/hal-05604016v1/document)
+  
+  
+# Publications
+- *Harmony in Rocq*; Savan Kan, Sergueï Lenglet; FORTE 2026. 
+  [[PDF](https://hal.science/hal-05604016v1/document)]
+  
