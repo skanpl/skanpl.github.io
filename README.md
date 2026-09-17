@@ -8,7 +8,7 @@ I am interested in PL, specifically in the following topics:\
 programming language semantics, type systems, formal verification, separation logic, concurrency, process calculi, compilers.
 
 
-# Research internships
+## Research internships
 - **Compositional reasoning for contextual preorders**.\
   **Topic:** Rocq mechanization of properties of the must-preorder in a process algebra.\
   **Supervisor:** Hugo Férée and Giovanni Bernardi\
@@ -22,7 +22,7 @@ programming language semantics, type systems, formal verification, separation lo
   **Paper:** [PDF](https://hal.science/hal-05604016v1/document)
   
   
-# Publications
+## Publications
 - *Harmony in Rocq*; Savan Kan, Sergueï Lenglet; FORTE 2026.\
   [[PDF](https://hal.science/hal-05604016v1/document)]
   
