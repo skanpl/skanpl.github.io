@@ -1,3 +1,4 @@
+[Home](/) | [GitHub](https://github.com/skanpl) | [_](https://skanpl.github.io/Other/bla)
 
 I'm bored so here are some stuff i wrote because why not.
 
