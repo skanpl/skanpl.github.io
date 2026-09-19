@@ -1,5 +1,6 @@
 ---
 title: Savan Kan
+author: Savan Kan
 ---
 
 [_](/) | [GitHub](https://github.com/skanpl) | [Other](https://skanpl.github.io/Other/bla)
